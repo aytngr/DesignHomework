@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">DesignHomework</string>
+    <string name="food_name">Avokado Tost</string>
+    <string name="recipe">Tarif</string>
+    <string name="recipe_text">Tost üzerine kalın bir tabaka avokado püresi sürülmüş ve yumurtalar eklenmiş.</string>
+    <string name="location_text">1234 Örnek Sokak. Apartman 25.</string>
+    <string name="delivery_text">30 dakika</string>
+    <string name="location">Konum</string>
+    <string name="delivery">Teslimat Süresi</string>
+    <string name="button_text">Onayla</string>
+    <string name="count">1</string>
+    <string name="price">115.00 ₺</string>
+    <string name="decrement">-</string>
+    <string name="increment">+</string>
+</resources>

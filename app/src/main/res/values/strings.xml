@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">DesignHomework</string>
+    <string name="food_name">Avocado Toast</string>
+    <string name="recipe">Recipe</string>
+    <string name="recipe_text">Spread a thick layer of mashed avocado over toast and added eggs.</string>
+    <string name="location_text">1234 Example Lane. Apartment 25.</string>
+    <string name="delivery_text">30 minutes</string>
+    <string name="location">Location</string>
+    <string name="delivery">Delivery Time</string>
+    <string name="button_text">Submit</string>
+    <string name="count">1</string>
+    <string name="price">115.00 $</string>
+    <string name="decrement">-</string>
+    <string name="increment">+</string>
+</resources>
